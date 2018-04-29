@@ -1,0 +1,2 @@
+* remove SHOP_LOCALE_CURRENCY
+* add sys reload encoding for UTF8 on windows

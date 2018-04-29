@@ -1,0 +1,13 @@
+{% load i18n pages_tags %}
+{% load staticfiles %}
+
+<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="{% static "img/womancycle.jpg" %}">
+
+		<div class="hs-caption container">
+			<div class="caption-content">
+				<div class="hs-title-size-3 font-alt m-b-20">
+					 {% block slide_title %}{{page.title}}{% endblock %}
+				</div>
+			</div>
+		</div>
+</section>
