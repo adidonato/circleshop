@@ -3,7 +3,7 @@ bleach==2.1.2
 Cartridge==0.12.0
 certifi==2018.1.18
 chardet==3.0.4
-Django==1.10
+Django==2.2.24
 django-appconf==1.0.2
 django-compressor==2.2
 django-contrib-comments==1.8.0
