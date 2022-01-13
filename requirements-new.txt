@@ -16,7 +16,7 @@ idna==2.6
 Mezzanine==4.2.3
 mezzanine-blocks==0.9.4
 oauthlib==2.0.6
-Pillow==5.0.0
+Pillow==9.0.0
 PyPDF2==1.26.0
 pytz==2018.3
 rcssmin==1.0.6
