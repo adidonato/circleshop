@@ -17,7 +17,7 @@ Mezzanine==4.2.3
 mezzanine-blocks==0.9.4
 oauthlib==2.0.6
 Pillow==5.0.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytz==2018.3
 rcssmin==1.0.6
 reportlab==3.4.0
