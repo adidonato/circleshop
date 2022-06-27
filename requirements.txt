@@ -21,7 +21,7 @@ Pillow==5.0.0
 PyPDF2==1.26.0
 pytz==2018.3
 rcssmin==1.0.6
-reportlab==3.4.0
+reportlab==3.5.55
 requests>=2.20.0
 requests-oauthlib==0.8.0
 rjsmin==1.0.12
